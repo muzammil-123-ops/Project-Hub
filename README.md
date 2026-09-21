@@ -54,6 +54,8 @@ This helps monitor tax contribution and understand the impact of different tax r
 
 Dashboard Screenshot
 <img width="504" height="347" alt="Dashboard" src="https://github.com/user-attachments/assets/e15a4738-891e-4e29-b931-8306a8dcb466" />
+
+
  Key Findings
 
 * Branch performance: The dashboard highlights differences in sales performance between branches, including the lower sales performance of the Manhattan branch.
