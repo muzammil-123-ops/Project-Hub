@@ -126,4 +126,4 @@ https://www.kaggle.com/datasets/hanif13/supermarket-sales
  **Project Outcome**
 
 The project transforms raw supermarket transaction data into an interactive Excel dashboard that allows business users to quickly understand sales performance,
- customer behavior, product performance, monthly trends, payment methods, branch performance, profit, and tax collection.
+ customer behavior, product performance, monthly trends, payment methods, branch performance and tax collection.
